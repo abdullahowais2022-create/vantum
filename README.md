@@ -1,9 +1,9 @@
 # Vantum
 
-**A free Minecraft launcher and client, by [Velorix Web Studio](https://github.com/abdullahowais2022-create).**
+**A free Minecraft launcher and client.**
 
 Sign in with Microsoft, run as many instances as you like — each with its own
-version, mods and worlds install mods from Modrinth in one click, and play.
+version, mods and worlds. Install mods from Modrinth in one click, and play.
 
 In game, **Right Shift** opens the Vantum menu: HUD read-outs you can drag
 anywhere, smooth zoom, toggle sprint, fullbright and more, all rebindable from
@@ -47,13 +47,13 @@ That's it. You only do this once.
 
 Windows shows this for any program that hasn't been signed with a paid code-signing
 certificate. Those run to hundreds of dollars a year and require a registered
-company a real cost for an independent studio, and one we haven't taken on yet.
+company, which is a real cost for an independent team and one we haven't taken on yet.
 
 Vantum is free, and we'd rather spend what we have on the client itself for now.
 We're working on perks to support development, and a signing certificate is near the
 top of the list once that's in place.
 
-**It is not a virus warning.** Windows isn't saying it found anything harmful it's
+**It is not a virus warning.** Windows isn't saying it found anything harmful. It's
 saying "I don't recognise the publisher of this file." Plenty of legitimate software
 gets the same message; the big launchers avoid it only because they're companies who
 paid for a certificate.
@@ -108,9 +108,9 @@ reinstall by hand.
 
 ## Supporting Vantum
 
-Vantum is free and stays free. We're an independent studio, so the things that
-cost money — code signing, hosting, the time to keep it current with Minecraft —
-come out of our own pocket.
+Vantum is free and stays free. We're independent, so the things that cost money —
+code signing, hosting, the time to keep it current with Minecraft — come out of
+our own pocket.
 
 We're putting together **perks** for people who want to support the project. The
 client itself won't be paywalled; the aim is to cover the running costs and get
@@ -143,4 +143,4 @@ Browse Modrinth from inside the app, or drop `.jar` files straight onto an insta
 
 ---
 
-*Vantum is a Velorix Web Studio product. Not affiliated with Mojang or Microsoft.*
+*Not affiliated with Mojang or Microsoft.*
