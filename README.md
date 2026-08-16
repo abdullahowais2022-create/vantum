@@ -3,7 +3,7 @@
 **A free Minecraft launcher and client, by [Velorix Web Studio](https://github.com/abdullahowais2022-create).**
 
 Sign in with Microsoft, run as many instances as you like — each with its own
-version, mods and worlds — install mods from Modrinth in one click, and play.
+version, mods and worlds install mods from Modrinth in one click, and play.
 
 In game, **Right Shift** opens the Vantum menu: HUD read-outs you can drag
 anywhere, smooth zoom, toggle sprint, fullbright and more, all rebindable from
@@ -53,7 +53,7 @@ Vantum is free, and we'd rather spend what we have on the client itself for now.
 We're working on perks to support development, and a signing certificate is near the
 top of the list once that's in place.
 
-**It is not a virus warning.** Windows isn't saying it found anything harmful — it's
+**It is not a virus warning.** Windows isn't saying it found anything harmful it's
 saying "I don't recognise the publisher of this file." Plenty of legitimate software
 gets the same message; the big launchers avoid it only because they're companies who
 paid for a certificate.
