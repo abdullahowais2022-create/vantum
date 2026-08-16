@@ -47,7 +47,7 @@ That's it. You only do this once.
 
 Windows shows this for any program that hasn't been signed with a paid code-signing
 certificate. Those run to hundreds of dollars a year and require a registered
-company — a real cost for an independent studio, and one we haven't taken on yet.
+company a real cost for an independent studio, and one we haven't taken on yet.
 
 Vantum is free, and we'd rather spend what we have on the client itself for now.
 We're working on perks to support development, and a signing certificate is near the
