@@ -1,11 +1,23 @@
 # Vantum
 
-A Minecraft launcher and client, made by **Velorix Web Studio**.
+**A free Minecraft launcher and client, by [Velorix Web Studio](https://github.com/abdullahowais2022-create).**
 
-Sign in with your Microsoft account, make as many instances as you like — each
-with its own version, mods and worlds — install mods from Modrinth in one click,
-and play. In game, press **Right Shift** for the Vantum menu: HUD read-outs, a
-drag-and-drop HUD editor, zoom, and more.
+Sign in with Microsoft, run as many instances as you like — each with its own
+version, mods and worlds — install mods from Modrinth in one click, and play.
+
+In game, **Right Shift** opens the Vantum menu: HUD read-outs you can drag
+anywhere, smooth zoom, toggle sprint, fullbright and more, all rebindable from
+the menu itself.
+
+- **Instances that stay out of each other's way** — separate mods and worlds, one
+  shared download, so a second instance on the same version is instant
+- **Your settings follow you** — keybinds and video options stay the same across
+  every instance, including imported ones
+- **Bring your setup with you** — drag in a folder from another launcher and your
+  mods, worlds, servers and settings come across
+- **Updates itself** — new versions download in the background; you click Restart
+
+Vantum installs into its own folder and never touches your existing Minecraft.
 
 ---
 
@@ -34,12 +46,17 @@ That's it. You only do this once.
 ### Why it happens
 
 Windows shows this for any program that hasn't been signed with a paid code-signing
-certificate. Those cost hundreds of dollars a year and require a registered company.
-Vantum is a personal project, so it doesn't have one yet.
+certificate. Those run to hundreds of dollars a year and require a registered
+company — a real cost for an independent studio, and one we haven't taken on yet.
+
+Vantum is free, and we'd rather spend what we have on the client itself for now.
+We're working on perks to support development, and a signing certificate is near the
+top of the list once that's in place.
 
 **It is not a virus warning.** Windows isn't saying it found anything harmful — it's
-saying "I don't recognise the publisher of this file." It shows the same message for
-plenty of small, legitimate apps.
+saying "I don't recognise the publisher of this file." Plenty of legitimate software
+gets the same message; the big launchers avoid it only because they're companies who
+paid for a certificate.
 
 ### If you'd rather check for yourself
 
@@ -89,4 +106,41 @@ reinstall by hand.
 
 ---
 
-*A Velorix Web Studio product.*
+## Supporting Vantum
+
+Vantum is free and stays free. We're an independent studio, so the things that
+cost money — code signing, hosting, the time to keep it current with Minecraft —
+come out of our own pocket.
+
+We're putting together **perks** for people who want to support the project. The
+client itself won't be paywalled; the aim is to cover the running costs and get
+that signing certificate so nobody sees a Windows warning again.
+
+In the meantime, the free things that genuinely help:
+
+- **Tell people about it** — the only reason anyone finds Vantum
+- **Report bugs** in [Issues](https://github.com/abdullahowais2022-create/vantum/issues),
+  with the version and what you were doing
+- **Star the repo** — it makes the project easier to find
+
+---
+
+## Questions
+
+**Do I need to own Minecraft?** Yes. Vantum launches the copy you own; it can't
+provide one.
+
+**Will this mess up my normal Minecraft?** No. Vantum keeps everything in its own
+folder (`%APPDATA%\Vantum`). Your existing worlds, mods and settings are untouched.
+
+**Can I use it on servers?** Vantum's own features are read-outs and local settings —
+nothing that gives an unfair advantage. That said, some servers ban modified clients
+on principle, so check the rules where you play. The Elytra swap module is off by
+default for exactly this reason.
+
+**Does it work with my mods?** Yes — anything for Fabric on your instance's version.
+Browse Modrinth from inside the app, or drop `.jar` files straight onto an instance.
+
+---
+
+*Vantum is a Velorix Web Studio product. Not affiliated with Mojang or Microsoft.*
